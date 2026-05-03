@@ -1,0 +1,82 @@
+Всего ошибок: 369 из 1169 (31.6%)
+
+Текст:    NORDIC BUSINESS REPORT-26 June 2006-Metso Corporation wins EUR50m equipment order in Australia -® 1998-2006 M2 COMMUNICATIONS LTD The Finnish engineering and technology group Metso Corporation said on Monday ( 26 June ) that it has received a EUR50m equipment order in Australia .
+Истина:   positive
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    In Q2 of 2009 , profit before taxes amounted to EUR 13.6 mn , down from EUR 26.8 mn in Q2 of 2008 .
+Истина:   negative
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    $RAD All my charts are flashing oversold.
+Истина:   neutral
+Предсказ: positive
+------------------------------------------------------------
+Текст:    $NFLX I say it's time to short at this point.
+Истина:   negative
+Предсказ: positive
+------------------------------------------------------------
+Текст:    Finnish Kemira 's net sales EUR decreased to EUR 1,259.6 mn in January-June 2009 from EUR 1,425.1 mn in January-June 2008 .
+Истина:   negative
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    The liquidity providing was interrupted on May 11 , 2007 when Aspocomp Group Oyj 's shares traded below 0.50 cent ( Aspocomp 's stock exchange release 11.5.2007 ) .
+Истина:   negative
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    Tesco set to sell Kipa, Giraffe businesses - Sky News
+Истина:   negative
+Предсказ: positive
+------------------------------------------------------------
+Текст:    $GPS Gap September Comparable Store Sales -4%
+Истина:   negative
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    Intertek Group announces strategic update outlining its plan
+Истина:   neutral
+Предсказ: negative
+------------------------------------------------------------
+Текст:    Finnish media group Talentum has issued a profit warning .
+Истина:   neutral
+Предсказ: negative
+------------------------------------------------------------
+Текст:    CEOs of BPM, UBI meet Italy econ minister as M&A talk heats up
+Истина:   positive
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    Under the terms of the off-take agreement with Talvivaara , Cameco will provide an up-front investment , to a maximum of $ 60 million , to cover the construction cost of the uranium extraction circuit .
+Истина:   positive
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    The sales of the Tiimari segment fell by 4.0 % year-on-year to EUR3 .3 m in June 2010 .
+Истина:   neutral
+Предсказ: negative
+------------------------------------------------------------
+Текст:    Nokia shares hit 13.21 euros on Friday , down 50 percent from the start of the year in part because of the slow introduction of touch-screen models .
+Истина:   neutral
+Предсказ: negative
+------------------------------------------------------------
+Текст:    Name of Company in which holdings have been acquired : Citycon Oyj 2 .
+Истина:   neutral
+Предсказ: positive
+------------------------------------------------------------
+Текст:    Casinos red before the bell: $LVS -0.75%, $WYNN -0.47%, $WYNN -0.47% > unusual comibinations of what's running, what's red before the bell
+Истина:   negative
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    $AAPL Now I'm glad I got stopped out of my $113 weeklies when I did. Will re-enter next Monday for the #earnings run-up.
+Истина:   neutral
+Предсказ: positive
+------------------------------------------------------------
+Текст:    3rd red day in a row ? $TSLA
+Истина:   negative
+Предсказ: positive
+------------------------------------------------------------
+Текст:    `` Those uncertainties cloud the long-term outlook . ''
+Истина:   negative
+Предсказ: neutral
+------------------------------------------------------------
+Текст:    $YHOO fishy action. New party interested (DailyMail) bounce & retreats. Not short by any means, but action questions big up move. Thoughts?
+Истина:   neutral
+Предсказ: positive
+------------------------------------------------------------
